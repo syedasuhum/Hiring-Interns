@@ -1,5 +1,5 @@
 # Hiring-Interns
-You've developed a hiring interns website using ASP.NET with C# as the backend and Bootstrap as the front-end library. This website serves as a comprehensive platform for companies to connect with potential interns and streamline the hiring process.
+Developed a hiring interns website using ASP.NET with C# as the backend and Bootstrap as the front-end library. This website serves as a comprehensive platform for companies to connect with potential interns and streamline the hiring process.
 
 The website features several key sections, each designed to provide a smooth and informative user experience:
 
